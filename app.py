@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 from tqdm import tqdm
 
+#put video input here
 cap = cv2.VideoCapture("Kiriko48.mp4")
 
 height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
