@@ -76,3 +76,4 @@ print(f"new fps: {out_fps}")
 
 cap.release()
 out.release()
+
